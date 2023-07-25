@@ -3,7 +3,7 @@
 
 👉 想要了解如何使用ChatGPT写程序，可以加群交流。
 
-## 抖音批量下载工具
+# 抖音批量下载工具功能介绍
 
 💁 支持个人主页链接、作品分享链接、抖音直播Web链接、合集链接、音乐(原声)集合链接
 
@@ -21,10 +21,15 @@
 
 📈 增量更新与数据持久化到数据库, 保存每条作品信息到数据库, 并根据数据库是否存在来增量请求下载
 
-### Todo
-* [ ] 可以直接运行的桌面版程序包
 
-### 使用截图
+# 申明
+
+本项目只作为学习用途, 切勿他用.
+有任何问题可以进群交流。
+
+<img src="img/fuye.png" width = "200" />
+
+# 使用截图
 
 ![DouYinCommand1](img/DouYinCommand1.jpg)
 ![DouYinCommand2](img/DouYinCommand2.jpg)
@@ -48,7 +53,7 @@
 7. 直播                https://live.douyin.com/759547612580                     
 ```
 
-## 抖音批量下载工具
+# 抖音批量下载工具
 
 批量下载有两种方式运行, 配置文件和命令行
 
@@ -298,12 +303,7 @@ python DouYinCommand.py -C True -l https://v.douyin.com/SnXMoh2/ -p /path/to/dow
 
 本项目部分思路来自[TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload)
 
-# 申明
 
-本项目只作为学习用途, 切勿他用.
-有任何问题可以进群交流。
-
-<img src="img/fuye.png" width = "200" />
 
 
 # License
