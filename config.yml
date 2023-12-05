@@ -15,6 +15,11 @@ link:
   -  https://v.douyin.com/kVefc81/
   -  https://v.douyin.com/kVdkdxY/
   -  https://v.douyin.com/kVdMcrr/
+  -  https://v.douyin.com/iRGu2mBL/
+  -  https://v.douyin.com/iRGukBBk/
+  -  https://v.douyin.com/iRGuJcW8/
+  -  https://v.douyin.com/iRGHQY5t/
+
 
 # 下载保存位置, 默认当前文件位置
 # 必选
@@ -61,7 +66,7 @@ mode:
 # 下载作品个数设置
 # 可选
 number:
-  post: 5     # 主页下作品下载个数设置, 默认为0 全部下载
+  post: 0     # 主页下作品下载个数设置, 默认为0 全部下载
   like: 5     # 主页下喜欢下载个数设置, 默认为0 全部下载
   allmix: 1   # 主页下合集下载个数设置, 默认为0 全部下载
   mix: 5      # 单个合集下作品下载个数设置, 默认为0 全部下载
