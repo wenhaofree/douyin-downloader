@@ -12,14 +12,14 @@
 # 可以设置多个链接, 确保至少一个链接
 # 必选
 link:
-  -  https://v.douyin.com/kVefc81/
-  -  https://v.douyin.com/kVdkdxY/
-  -  https://v.douyin.com/kVdMcrr/
-  -  https://v.douyin.com/iRGu2mBL/
-  -  https://v.douyin.com/iRGukBBk/
-  -  https://v.douyin.com/iRGuJcW8/
-  -  https://v.douyin.com/iRGHQY5t/
-
+  -  https://v.douyin.com/iFkCab1d/  #足个
+  -  https://v.douyin.com/i2cbhkF8/  #赛博小凡
+  -  https://v.douyin.com/i2cbTPkF/  #赛博司马特
+  -  https://v.douyin.com/i2cbEB9j/ #赛博马克
+  -  https://v.douyin.com/i2cbvkYC/ #赛文乔伊
+  -  https://v.douyin.com/i2cgLrX9/ #恒哥科技（AI训练师）
+  -  https://v.douyin.com/i2cgRJde/   #每天一款AI工具
+  -  https://v.douyin.com/i2cbKa78/ #胡侃AI笔记
 
 # 下载保存位置, 默认当前文件位置
 # 必选
@@ -27,7 +27,7 @@ path: ./Downloaded/
 
 # 是否下载视频中的音乐(True/False), 默认为True
 # 可选
-music: True
+music: False
 
 # 是否下载视频的封面(True/False), 默认为True, 当下载视频时有效
 # 可选
@@ -35,7 +35,7 @@ cover: True
 
 # 是否下载作者的头像(True/False), 默认为True
 # 可选
-avatar: True
+avatar: False
 
 # 是否保存获取到的数据(True/False), 默认为True
 # 可选
@@ -66,7 +66,7 @@ mode:
 # 下载作品个数设置
 # 可选
 number:
-  post: 0     # 主页下作品下载个数设置, 默认为0 全部下载
+  post: 50     # 主页下作品下载个数设置, 默认为0 全部下载
   like: 5     # 主页下喜欢下载个数设置, 默认为0 全部下载
   allmix: 1   # 主页下合集下载个数设置, 默认为0 全部下载
   mix: 5      # 单个合集下作品下载个数设置, 默认为0 全部下载
@@ -104,11 +104,11 @@ cookies:
   # odin_tt: xxx
   # passport_csrf_token: xxx
   # sid_guard: xxx
-  msToken: V2Z81awjFqi9-xY2nF9Nzt5pAx8cIJ_NyEgaASXpiLTQp3RoNL9aNajtz3TR9PGGYr5HIfDn7xN6xcIG3ry0qL6Dz4OoOJXLOapbPwo6g_6_wayun026cgrnsNyh_lY=
-  ttwid: 1%7CuvVSCs3TrpXCLYPdGOm9kOZi2KfPl3aQMokwAT4p2gw%7C1668686667%7C407e79f41c1d3c7beda53f6535064dc5a07eee68d9a372c4ab360f4bfa0b838b
-  odin_tt: 6f8f0b66fda782f9950e77dbf9aef97aaba0ae6f8b569a9b015a97c16630db81138ce3cc0d9e9a751b76c4a841241ae6
-  passport_csrf_token: 99d9b8c4945dac0fd2998b5b56de6929
-  sid_guard: 66d7a2432d3b509a108656d2dc4a4ed5%7C1685000706%7C5183999%7CMon%2C+24-Jul-2023+07%3A45%3A05+GMT
+  msToken: z4wLztg2tyHD3OMQwvORKAsn-J_6JcRIxOfHkwMad2XuJiHi5-giqdOrvVRjO0pDGaRi-oSimo5_MNMDu4nI19Ry1xavaKwEt_wtus8eAus3SqOl4rpIxKSKNdDB
+  ttwid: 1%7CM1eiAWveA18GuSjYCOlL1qu6lWO3X7k-t6yVJzZZaso%7C1709796579%7Ca29974766e5b7af00c48f73343982f9ed4771b924c548355d5dad80009f03dc7
+  odin_tt: bd5cf5bcd5caa103dcda7fc58e12ecb8d88f233332d91d4b692b59876e8195407ef7b9c5c7fdaa387937e1f2e982084ebcd59f9d2e4ec7c48f4d28fccfb6a5c4c12f38fdcb4729b299b46762374f757c
+  passport_csrf_token: 4381950e9aaf92aea3773951b0ab8a79
+  sid_guard: 8e7ddeef9f37b68bccecfd12ea9b32da%7C1708310888%7C5184000%7CFri%2C+19-Apr-2024+02%3A48%3A08+GMT
 
 # cookie 请登录网页抖音后F12查看
 # cookies 和 cookie 二选一, 要使用这种形式, 请注释上面的cookies及包含的所有键值对
